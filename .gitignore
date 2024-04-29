@@ -1,8 +1,12 @@
+download_wp.sh
 __pycache__/
 _build/*
+slides_html/
 data/models/*
 **/.DS_Store
 **/*.icloud
 *.swp
 .ipynb_checkpoints
 .jupyter
+*.yml
+*.txt
