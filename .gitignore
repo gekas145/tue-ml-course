@@ -3,6 +3,7 @@ __pycache__/
 _build/*
 slides_html/
 data/models/*
+gama_log*/
 **/.DS_Store
 **/*.icloud
 *.swp
