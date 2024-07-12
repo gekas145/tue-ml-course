@@ -4,6 +4,7 @@ _build/*
 slides_html/
 data/models/*
 gama_log*/
+auto*/
 **/.DS_Store
 **/*.icloud
 *.swp
